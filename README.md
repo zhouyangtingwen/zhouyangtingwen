@@ -1,7 +1,6 @@
 ### 全栈工程师 目前专注 AIGC🎯 只输出干货
 
-![9881682305695_ pic](https://user-images.githubusercontent.com/130919942/233891810-d9a38495-45aa-435a-bbee-4d392d9715e4.jpg)
-
+<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://user-images.githubusercontent.com/130919942/233891810-d9a38495-45aa-435a-bbee-4d392d9715e4.jpg)" width="200" />
 
 <!--
 **zhouyangtingwen/zhouyangtingwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
